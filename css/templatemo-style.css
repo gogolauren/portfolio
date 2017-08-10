@@ -16,13 +16,13 @@ TABLE OF CONTENT
 /* 1. Universal Styles
 ----------------------------------------------*/
 * {	font-family: 'Open Sans', sans-serif; }
-body {	font-size: 13px; }
+body {	font-size: 15px; }
 body, .templatemo-left-nav { background: #2d3131; }
 h1, h2, h3 { margin: 0; }
 h2 { font-size: 1.6em; }
 h3 {
 	color: #7f7f7f;
-	font-size: 1.4em;
+	font-size: 1.125em;   /*18px*/
 }
 ul {
 
