@@ -260,7 +260,12 @@ footer { padding: 15px; }
   
 }
 
-
+.text-credit{
+    font-size: 9px;
+    margin-top: 5px;
+    color: darkgray;
+    float: right;
+}
 .image-withback{
    
     margin-bottom: 4px;
